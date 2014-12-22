@@ -33,8 +33,8 @@ class ViewController: UIViewController {
         messageLabel.hidden = false
         nameLabel.text = enterName.text
         messageLabel.text = enterMessage.text
-        nameLabel.textColor = UIColor.redColor()
-        messageLabel.textColor = UIColor.redColor()
+        nameLabel.textColor = UIColor.blueColor()
+        messageLabel.textColor = UIColor.blueColor()
         enterName.text = ""
         enterMessage.text = ""
         sendButton.setTitle("Welcome to Trophy you Son of a Bitch", forState: UIControlState.Normal)
