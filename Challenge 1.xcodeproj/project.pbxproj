@@ -13,6 +13,9 @@
 		2E2488951A4644AD00FE1269 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E2488941A4644AD00FE1269 /* Images.xcassets */; };
 		2E2488981A4644AD00FE1269 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2E2488961A4644AD00FE1269 /* LaunchScreen.xib */; };
 		2E2488A41A4644AD00FE1269 /* Challenge_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E2488A31A4644AD00FE1269 /* Challenge_1Tests.swift */; };
+		2E2488AE1A46457100FE1269 /* imgres-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E2488AD1A46457100FE1269 /* imgres-1.jpg */; };
+		2E2488B01A47D6B200FE1269 /* xvaix4V6gV55zs9COdhfIAkviO6yVWcmmnbE2AV10qU.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E2488AF1A47D6B200FE1269 /* xvaix4V6gV55zs9COdhfIAkviO6yVWcmmnbE2AV10qU.png */; };
+		2E2488B21A47D6BA00FE1269 /* Screen Shot 2014-12-21 at 10.33.16 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2E2488B11A47D6BA00FE1269 /* Screen Shot 2014-12-21 at 10.33.16 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 		2E24889D1A4644AD00FE1269 /* Challenge 1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Challenge 1Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E2488A21A4644AD00FE1269 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2E2488A31A4644AD00FE1269 /* Challenge_1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Challenge_1Tests.swift; sourceTree = "<group>"; };
+		2E2488AD1A46457100FE1269 /* imgres-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "imgres-1.jpg"; sourceTree = "<group>"; };
+		2E2488AF1A47D6B200FE1269 /* xvaix4V6gV55zs9COdhfIAkviO6yVWcmmnbE2AV10qU.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xvaix4V6gV55zs9COdhfIAkviO6yVWcmmnbE2AV10qU.png; sourceTree = "<group>"; };
+		2E2488B11A47D6BA00FE1269 /* Screen Shot 2014-12-21 at 10.33.16 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2014-12-21 at 10.33.16 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +96,9 @@
 		2E24888B1A4644AD00FE1269 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2E2488B11A47D6BA00FE1269 /* Screen Shot 2014-12-21 at 10.33.16 PM.png */,
+				2E2488AF1A47D6B200FE1269 /* xvaix4V6gV55zs9COdhfIAkviO6yVWcmmnbE2AV10qU.png */,
+				2E2488AD1A46457100FE1269 /* imgres-1.jpg */,
 				2E24888C1A4644AD00FE1269 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,9 +201,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E2488AE1A46457100FE1269 /* imgres-1.jpg in Resources */,
 				2E2488931A4644AD00FE1269 /* Main.storyboard in Resources */,
 				2E2488981A4644AD00FE1269 /* LaunchScreen.xib in Resources */,
+				2E2488B01A47D6B200FE1269 /* xvaix4V6gV55zs9COdhfIAkviO6yVWcmmnbE2AV10qU.png in Resources */,
 				2E2488951A4644AD00FE1269 /* Images.xcassets in Resources */,
+				2E2488B21A47D6BA00FE1269 /* Screen Shot 2014-12-21 at 10.33.16 PM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,6 +419,7 @@
 				2E2488A91A4644AD00FE1269 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2E2488AA1A4644AD00FE1269 /* Build configuration list for PBXNativeTarget "Challenge 1Tests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +428,7 @@
 				2E2488AC1A4644AD00FE1269 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
